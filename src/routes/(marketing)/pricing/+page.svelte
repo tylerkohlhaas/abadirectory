@@ -155,7 +155,7 @@
           <tr>
             <th></th>
             <th class="text-center">Free</th>
-            <th class="text-center">Pro</th>
+            <th class="text-center">Paid</th>
           </tr>
         </thead>
         <tbody>
